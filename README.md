@@ -1,3 +1,1 @@
-# Tez_01
-hola 
-ya quedo 
+Hola, este es mi proyecto
